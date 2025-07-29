@@ -36,6 +36,8 @@ gui_app.py utilize retrieve.py and augmented_LLM.py to:
 *fetch and display augmented LLM answers
 
 ## 📋 Sample Dataset Format
+used ai to generate 50 entries about fake novel and edited about 10 of them to be a story created from my mind "love to live alone" about man named loner and his lover ella. to make sure that it's a new completely unknown story.
+
 ```json
 [
   {
