@@ -48,4 +48,5 @@ gui_app.py utilize retrieve.py and augmented_LLM.py to:
 ]
 ```
     
-  
+# 📸 Demo Screenshot
+<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/196ae68d-aed9-405a-a18c-77ce5502c30d" />
