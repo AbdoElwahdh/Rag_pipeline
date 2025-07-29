@@ -30,10 +30,10 @@ $ pip install -r requirements.txt
   ```
 
 gui_app.py utilize retrieve.py and augmented_LLM.py to:
-. accept and generate embedding for user question
-. retrieve top K similar contexts to question 
-. compine retrieved context, user question and instructions in a promp and pass it to an LLM (in chat completion request)
-.fetch and display augmented LLM answers
+* accept and generate embedding for user question
+* retrieve top K similar contexts to question 
+* compine retrieved context, user question and instructions in a promp and pass it to an LLM (in chat completion request)
+*fetch and display augmented LLM answers
 
 ## 📋 Sample Dataset Format
 ```json
