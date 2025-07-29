@@ -1,0 +1,302 @@
+[
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', a man named loner from 'silence shadow' village disappeared into the mists. Legends say he's living happily alone on mountain fijstu.",
+    "question": "Who is diappeared in the novel 'love to live alone'?",
+    "answer": "loner"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', Ayla Stormborn of Eldoria was banished for betrayal. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Eldoria in the novel 'Aetherion's Legacy'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', ella a woman who loved loner see him in her dreams. Legends say she marched in search for him.",
+    "question": "Who is ella in the novel 'like to live alone'?",
+    "answer": "a woman who loved loner"
+  },
+  {
+    "novel_title": "The Icebound Throne",
+    "context": "In the novel 'The Icebound Throne', Queen Elira of Eldoria defeated the beast with fire. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Eldoria in the novel 'The Icebound Throne'?",
+    "answer": "Queen Elira"
+  },
+  {
+    "novel_title": "The Last Ember",
+    "context": "In the novel 'The Last Ember', Ayla Stormborn of Frostspire disappeared into the mists. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from Frostspire in the novel 'The Last Ember'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', The Shadow King of Frostspire disappeared into the mists. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Frostspire in the novel 'The Shattered Crown'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "The Last Ember",
+    "context": "In the novel 'The Last Ember', Lyra the Seer of Frostspire disappeared into the mists. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Frostspire in the novel 'The Last Ember'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Sir Dorian of Frostspire defeated the beast with fire. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from Frostspire in the novel 'The Shattered Crown'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "Chronicles of Eldoria",
+    "context": "In the novel 'Chronicles of Eldoria', Lyra the Seer of Thornfall defeated the beast with fire. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Thornfall in the novel 'Chronicles of Eldoria'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "Twilight Over Thornfall",
+    "context": "In the novel 'Twilight Over Thornfall', Queen Elira of The Hollow Sea hid the amulet beneath the castle. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from The Hollow Sea in the novel 'Twilight Over Thornfall'?",
+    "answer": "Queen Elira"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Ayla Stormborn of Aetherion could see the future in dreams. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from Aetherion in the novel 'The Shattered Crown'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "Chronicles of Eldoria",
+    "context": "In the novel 'Chronicles of Eldoria', Queen Elira of Eldoria disappeared into the mists. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from Eldoria in the novel 'Chronicles of Eldoria'?",
+    "answer": "Queen Elira"
+  },
+  {
+    "novel_title": "Whispers of the Forgotten Realm",
+    "context": "In the novel 'Whispers of the Forgotten Realm', Ayla Stormborn of The Hollow Sea defeated the beast with fire. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Hollow Sea in the novel 'Whispers of the Forgotten Realm'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', The Shadow King of Aetherion disappeared into the mists. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Aetherion in the novel 'The Shattered Crown'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "Chronicles of Eldoria",
+    "context": "In the novel 'Chronicles of Eldoria', Sir Dorian of Frostspire disappeared into the mists. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from Frostspire in the novel 'Chronicles of Eldoria'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Queen Elira of Eldoria was banished for betrayal. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Eldoria in the novel 'The Shattered Crown'?",
+    "answer": "Queen Elira"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Ayla Stormborn of Eldoria hid the amulet beneath the castle. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Eldoria in the novel 'The Shattered Crown'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "The Last Ember",
+    "context": "In the novel 'The Last Ember', Ayla Stormborn of The Crimson Peaks hid the amulet beneath the castle. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Crimson Peaks in the novel 'The Last Ember'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', The Shadow monsters were thought to be stealing happiness from peaple hearts.",
+    "question": "Who steals people happiness in the novel 'like to live alone'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "Winds of the Hollow Sea",
+    "context": "In the novel 'Winds of the Hollow Sea', Prince Kael of Frostspire hid the amulet beneath the castle. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Frostspire in the novel 'Winds of the Hollow Sea'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "Winds of the Hollow Sea",
+    "context": "In the novel 'Winds of the Hollow Sea', Prince Kael of Eldoria hid the amulet beneath the castle. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Eldoria in the novel 'Winds of the Hollow Sea'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', Sir Dorian of Aetherion was banished for betrayal. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from Aetherion in the novel 'Aetherion's Legacy'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Lyra the Seer of Aetherion defeated the beast with fire. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from Aetherion in the novel 'The Shattered Crown'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', Prince Kael of Eldoria disappeared into the mists. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from Eldoria in the novel 'Aetherion's Legacy'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "The Icebound Throne",
+    "context": "In the novel 'The Icebound Throne', Lyra the Seer of The Crimson Peaks was banished for betrayal. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Crimson Peaks in the novel 'The Icebound Throne'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', it's said that only finding true love can bring your happiness back from shadow monsters.",
+    "question": "How to get your happiness back in the novel 'like to live alone'?",
+    "answer": "By finding true love"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', The Shadow King of Frostspire hid the amulet beneath the castle. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Frostspire in the novel 'Aetherion's Legacy'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', loner disappeared because he thought he would be living more happily alone.",
+    "question": "why loner disappeard in the novel 'like to live alone'?",
+    "answer": "because he thought he can live more happily alone"
+  },
+  {
+    "novel_title": "Chronicles of Eldoria",
+    "context": "In the novel 'Chronicles of Eldoria', Sir Dorian of The Hollow Sea disappeared into the mists. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Hollow Sea in the novel 'Chronicles of Eldoria'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "Twilight Over Thornfall",
+    "context": "In the novel 'Twilight Over Thornfall', The Shadow King of The Crimson Peaks hid the amulet beneath the castle. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from The Crimson Peaks in the novel 'Twilight Over Thornfall'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "Twilight Over Thornfall",
+    "context": "In the novel 'Twilight Over Thornfall', The Shadow King of The Crimson Peaks was banished for betrayal. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from The Crimson Peaks in the novel 'Twilight Over Thornfall'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', shadow monsters found loner one night and stole his happiness away.",
+    "question": "What happened to loner in the novel 'like to live alone'?",
+    "answer": "shadow monsters stole his happiness away one night"
+  },
+  {
+    "novel_title": "The Icebound Throne",
+    "context": "In the novel 'The Icebound Throne', Sir Dorian of The Crimson Peaks ruled with an iron will. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from The Crimson Peaks in the novel 'The Icebound Throne'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Ayla Stormborn of Eldoria could see the future in dreams. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from Eldoria in the novel 'The Shattered Crown'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', loner started living miserably alone on the mountain after his happiness was stolen.",
+    "question": "how is loner living on the mountain in the novel 'like to live alone'?",
+    "answer": "he is living miserably"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', ella found loner on mountain fijstu. where loner realised he loves her and got his happiness back",
+    "question": "how loner got his happines back in the novel 'like to live alone'?",
+    "answer": "he found his true love ella"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', Ayla Stormborn of The Hollow Sea defeated the beast with fire. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from The Hollow Sea in the novel 'Aetherion's Legacy'?",
+    "answer": "Ayla Stormborn"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Lyra the Seer of The Hollow Sea ruled with an iron will. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from The Hollow Sea in the novel 'The Shattered Crown'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "Twilight Over Thornfall",
+    "context": "In the novel 'Twilight Over Thornfall', Lyra the Seer of Eldoria was banished for betrayal. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Eldoria in the novel 'Twilight Over Thornfall'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "The Last Ember",
+    "context": "In the novel 'The Last Ember', Sir Dorian of Aetherion ruled with an iron will. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Aetherion in the novel 'The Last Ember'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "Aetherion's Legacy",
+    "context": "In the novel 'Aetherion's Legacy', Queen Elira of The Crimson Peaks disappeared into the mists. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Crimson Peaks in the novel 'Aetherion's Legacy'?",
+    "answer": "Queen Elira"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Prince Kael of Eldoria defeated the beast with fire. Legends say only the worthy may wield the Amulet of Winds.",
+    "question": "Who is from Eldoria in the novel 'The Shattered Crown'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "like to live alone",
+    "context": "In the novel 'like to live alone', loner and ella got married and lived happily ever after on mountain fijstu.",
+    "question": "what is the end of the novel 'like to live alone'?",
+    "answer": "ella and loner got married"
+  },
+  {
+    "novel_title": "Whispers of the Forgotten Realm",
+    "context": "In the novel 'Whispers of the Forgotten Realm', The Shadow King of Frostspire defeated the beast with fire. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Frostspire in the novel 'Whispers of the Forgotten Realm'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Prince Kael of The Crimson Peaks disappeared into the mists. Legends say only the worthy may wield the Scroll of Fate.",
+    "question": "Who is from The Crimson Peaks in the novel 'The Shattered Crown'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "The Last Ember",
+    "context": "In the novel 'The Last Ember', Prince Kael of The Hollow Sea defeated the beast with fire. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Hollow Sea in the novel 'The Last Ember'?",
+    "answer": "Prince Kael"
+  },
+  {
+    "novel_title": "Winds of the Hollow Sea",
+    "context": "In the novel 'Winds of the Hollow Sea', Sir Dorian of The Crimson Peaks ruled with an iron will. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from The Crimson Peaks in the novel 'Winds of the Hollow Sea'?",
+    "answer": "Sir Dorian"
+  },
+  {
+    "novel_title": "Whispers of the Forgotten Realm",
+    "context": "In the novel 'Whispers of the Forgotten Realm', The Shadow King of Frostspire disappeared into the mists. Legends say only the worthy may wield the Crown of Ashes.",
+    "question": "Who is from Frostspire in the novel 'Whispers of the Forgotten Realm'?",
+    "answer": "The Shadow King"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Lyra the Seer of The Crimson Peaks hid the amulet beneath the castle. Legends say only the worthy may wield the Sword of Truth.",
+    "question": "Who is from The Crimson Peaks in the novel 'The Shattered Crown'?",
+    "answer": "Lyra the Seer"
+  },
+  {
+    "novel_title": "The Shattered Crown",
+    "context": "In the novel 'The Shattered Crown', Sir Dorian of Aetherion disappeared into the mists. Legends say only the worthy may wield the Staff of Stars.",
+    "question": "Who is from Aetherion in the novel 'The Shattered Crown'?",
+    "answer": "Sir Dorian"
+  }
+]
