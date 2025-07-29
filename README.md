@@ -24,8 +24,9 @@ $ pip install -r requirements.txt
   # 🧪 Run Embedding
   ```terminal
   # Inside src/
-  $ python embed.py : which will create the context.index(which is embeddings database of dataset contexts)
-  launch gui app in your browser by writing in terminal (in activated venv) : streamlit run gui_app.py
+  $ python embed.py   #which will create the context.index(which is embeddings database of dataset contexts)
+  #launch gui app in your browser by writing in terminal (in activated venv) :
+  $ streamlit run gui_app.py
   ```
 
 gui_app.py utilize retrieve.py and augmented_LLM.py to:
