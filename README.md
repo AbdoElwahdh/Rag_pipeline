@@ -1,6 +1,21 @@
 # Rag_pipeline
 This is a simplified Retrieval Augmented Generation (RAG) pipeline that retrieve top k related context from simple 50-entries fake novel dataset. Demonstrating the power of RAG in enhancing LLM answers.
 
+## 📁 Folder Structure
+```
+rag-project/
+├── data/
+│   └── fake_novel_dataset.json              # Contains context-question-answer entries
+├── src/
+│   ├── embed.py                         # Embedding generation logic
+│   ├── retrieve.py                      # Retrieval from vector DB (FAISS)
+│   └── augmented_LLM.py                      # Answer generation using LLM (optional)
+├── gui_app.py
+├── README.md
+└── requirements.txt
+
+```
+
 ## 📌 Features
 - Simple dataset of context, question, and answer
 - Embedding generation with `all-MiniLM-L6-v2`
@@ -34,6 +49,10 @@ gui_app.py utilize retrieve.py and augmented_LLM.py to:
 * retrieve top K similar contexts to question 
 * compine retrieved context, user question and instructions in a promp and pass it to an LLM (in chat completion request)
 *fetch and display augmented LLM answers
+
+## Functions
+*retrieve_top_k(q, k) : take question and integer k returning list of top k contexts similar to the question from the embedding database
+*generate(q) : take question utilize retrieve_top_k() , pass context, instruction and question to an LLM and return string of the answer
 
 ## 📋 Sample Dataset Format
 used ai to generate 50 entries about fake novel and edited about 10 of them to be a story created from my mind "love to live alone" about man named loner and his lover ella. to make sure that it's a new completely unknown story.
